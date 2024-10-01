@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://eopbomr.github.io/sitemap/sitemap.txt
